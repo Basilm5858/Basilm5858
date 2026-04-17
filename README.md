@@ -66,8 +66,7 @@
 
 ## 📫 Contact Me
 
-* 📩 Email: *your-email-here*
-* 💬 Telegram: *(ضيف اللينك بتاعك هنا)*
+* 📩 Email: *basilm589@gmail.com*
 
 ---
 
