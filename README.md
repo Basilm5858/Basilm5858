@@ -1,16 +1,5 @@
 // Organized Tech Stack
-
-class About : MarwanHazem {
-    const myTools = {
-        "ProgrammingLanguages" : { "C#", "C++", "Python", "Javascript", "Java" },
-        "MobileAndWeb"         : { "Flutter", "React Native", "HTML", "CSS" },
-        "Database"             : { "Firebase", "Sqlite", "PostgreSql" },
-        "Editors"              : { "Vscode", "Visual Studio"},
-        "Platforms"            : { "Windows", Linux" },
-        "OtherTools"           : { "Git", "Figma", "Lovable" }
-    };
-}
-
+Hello There
 
 
 
