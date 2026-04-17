@@ -50,6 +50,12 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat\&logo=visual%20studio%20code\&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat\&logo=visualstudio\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
+
+### 💻 Platforms
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat\&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
 
 ---
 
@@ -66,7 +72,7 @@
 
 ## 📫 Contact Me
 
-* 📩 Email: *basilm589@gmail.com*
+* 📩 Email: *[basilm589@gmail.com](mailto:basilm589@gmail.com)*
 
 ---
 
