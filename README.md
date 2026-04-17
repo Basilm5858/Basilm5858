@@ -1,16 +1,22 @@
-## Hi there 👋
+// Organized Tech Stack
 
-<!--
-**Basilm5858/Basilm5858** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class About : MarwanHazem {
+    const myTools = {
+        "ProgrammingLanguages" : { "C#", "C++", "Python", "Javascript", "Java" },
+        "MobileAndWeb"         : { "Flutter", "React Native", "HTML", "CSS" },
+        "Database"             : { "Firebase", "Sqlite", "PostgreSql" },
+        "Editors"              : { "Vscode", "Visual Studio"},
+        "Platforms"            : { "Windows", Linux" },
+        "OtherTools"           : { "Git", "Figma", "Lovable" }
+    };
+}
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+### 🏆 Achievements & Interests
+
+* **International Competitions:** Proud participant in several global football tournaments, bringing the spirit of teamwork and discipline from the pitch to the code.
+
+* **Problem Solving:** Passionate about low-level programming with C++ and high-level architecture with .NET.
