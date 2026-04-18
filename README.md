@@ -76,11 +76,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-> I enjoy solving problems and building real-world projects more than just studying theory 😄
-
----
 
 <div align="center">
 🔥 Always learning | Always building 🔥
