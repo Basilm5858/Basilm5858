@@ -17,7 +17,7 @@
 * 🎓 CS Student passionate about software development
 * 💻 I build **Web Applications using ASP.NET MVC**
 * 🖥️ Desktop Apps developer using **WPF & C#**
-* 🌐 Frontend developer باستخدام **HTML, CSS, JavaScript, Bootstrap**
+* 🌐 Frontend developer using **HTML, CSS, JavaScript, Bootstrap**
 * 🧠 Problem Solver & always learning new technologies
 
 ---
