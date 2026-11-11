@@ -39,7 +39,7 @@
 ### 🧩 Backend & Frameworks
 
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat\&logo=.net\&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=flat\&logo=.net\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat\&logo=.net\&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=flat\&logo=windows\&logoColor=white)
 
 ### 🗄️ Database
